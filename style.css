@@ -57,3 +57,24 @@ body {
     --h4-size: 1.15em;
 }
 
+/* GLOBAL STYLES (mobile first/small) */
+body {
+    font-family: var(--body-font);
+    color: var(--dark-gray);
+    background-color: var(--white);
+    font-size: 1rem;
+ }
+ 
+ h1,
+ h2 {
+    font-family: var(--heading-font)
+}
+
+h1 {
+    font-size: var(--h1-size);
+ }
+
+ nav h2 {
+    font-size: var(--nav-h2-size);
+ }
+ 
