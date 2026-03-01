@@ -1,7 +1,6 @@
 /* CSS BY Sarina */
 
 /* IMPORTED FONTS */
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
 
 /* CSS RESET */
@@ -13,31 +12,12 @@
     box-sizing: border-box;
 }
 
-.container {
-    width: 100%;
-    max-width: 450px;
-    margin: auto;
-}
-
-img,
-picture,
-video,
-canvas,
-svg {
-    display: block;
+img {
     max-width: 100%;
-}
-
-input,
-button,
-textarea,
-select {
-    font: inherit;
 }
 
 body {
     line-height: 1.5;
-    -webkit-font-smoothing: antialiased;
 }
 
 /* ROOT VARIABLES */
@@ -66,9 +46,9 @@ body {
 /* GLOBAL STYLES (mobile first/small) */
 body {
     font-family: var(--body-font);
+    background-color: var(--lavender);
     color: var(--dark-gray);
-    background-color: var(--white);
-    font-size: 1rem;
+    padding: 15px;
  }
  
  h1,
