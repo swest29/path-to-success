@@ -126,14 +126,13 @@ section {
     margin: 10px 0;
 }
 
-.table {
+.pricing table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 1.5rem;
     background-color: var(--white);
     border-radius: 10px;
     overflow: hidden;
-}
 
 th {
     background-color: var(--yellow);
