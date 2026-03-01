@@ -63,9 +63,9 @@ h1 {
  }
  
  h3 {
-    color: var(--yellow);
     font-size: 1.5em;
-    margin: 15px;
+    margin: 10px 0;
+    color: var(--yellow);
  }
 
  h4 {
