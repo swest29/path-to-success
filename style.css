@@ -149,3 +149,9 @@ td {
     font-weight: bold;
 }
 
+footer {
+    text-align: center;
+    color: var(--white);
+    margin-top: 20px;
+    font-size: 0.9em;
+}
