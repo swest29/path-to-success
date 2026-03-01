@@ -137,3 +137,15 @@ th {
     text-align: left;
 }
 
+td {
+    padding: 8px;
+    border-top: 1px solid #ccc;
+}
+
+.cta {
+    background-color: var(--pink);
+    color: var(--White);
+    text-align: center;
+    font-weight: bold;
+}
+
