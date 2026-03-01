@@ -63,11 +63,10 @@ h1 {
  }
  
  h3 {
-    font-size: 1.5em;
-    margin: 10px 0;
     color: var(--yellow);
-    font-family: var(--heading-font);
-}
+    font-size: 1.5em;
+    margin: 15px;
+ }
 
  h4 {
     font-size: 1.15em;
