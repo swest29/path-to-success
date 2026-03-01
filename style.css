@@ -117,6 +117,12 @@ section {
     color: var(--white);
 }
 
+.why .features {
+    display: grid;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
 .feature {
     background-color: var(--white);
     color: var(--dark-gray);
