@@ -145,6 +145,7 @@ th {
 }
 
 td {
+    background-color: Var(--White);
     padding: 8px;
     border-top: 1px solid #ccc;
 }
